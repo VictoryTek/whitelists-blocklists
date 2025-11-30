@@ -1,0 +1,26 @@
+# ===== TP-Link Kasa Cloud / Telemetry =====
+tplinkcloud.com
+*.tplinkcloud.com
+tplinkra.com
+*.tplinkra.com
+tp-link.com
+*.tp-link.com
+us-wap.tplinkcloud.com
+eu-wap.tplinkcloud.com
+ap-wap.tplinkcloud.com
+
+# ===== TP-Link Telemetry Services =====
+eu-wap.tplinkcloud.com
+wap.tplinkcloud.com
+use1-wap.tplinkcloud.com
+euw1-wap.tplinkcloud.com
+aps1-wap.tplinkcloud.com
+
+# ===== TP-Link Device Insight / Reporting =====
+log.tplinkcloud.com
+*.log.tplinkcloud.com
+dc.tplinkcloud.com
+*.dc.tplinkcloud.com
+
+# ===== Crash / Metrics =====
+cn-dc.tplinkcloud.com
